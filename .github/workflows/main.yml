@@ -32,4 +32,4 @@ jobs:
 
       - name: Link Human to Agent
         run: |
-          node scripts/manualLinkHumanToAgent.js --challenge '{"name":"diban3","description":"diban3 AI Agent"}'
+          node scripts/manualLinkHumanToAgent.js --challenge '{"name":"Diban3","description":"Diban3 AI Agent"}'
